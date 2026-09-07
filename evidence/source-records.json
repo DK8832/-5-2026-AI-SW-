@@ -1,0 +1,52 @@
+{
+  "prepared_at": "2026-09-07",
+  "base_commit": "a9e8beee0faa7bd5d5022208ae201da3834f98f2",
+  "files": [
+    {
+      "name": "AgentBridge_project.zip",
+      "bytes": 242451,
+      "sha256": "142a8e191de4f1493f96ae5961c98f84cf4ec4f4cda3211ebe602340373b1080",
+      "git_blob_sha1": "efcdee11004c07b5f43a8b3ef41ef5900f8fd526",
+      "status": "unchanged"
+    },
+    {
+      "name": "청주안심동선_제안서.pdf",
+      "sha256": "06529f688fd12681dfa23c99d8f913eee1e3637f75c1a191059fb8564eeb17ac",
+      "selected_original_pages": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "name": "project.py",
+      "source_archive": "project4.zip",
+      "sha256": "143f675055a78f1279fd008ba97d1b1ac858bda12de631be16a813c8807946c3",
+      "status": "unchanged source bytes"
+    },
+    {
+      "name": "AI_분리배출_도우미_최종_PPT.pptx",
+      "sha256": "4666db374fe49e3f92b5f7c87db21f996fd7bba3c88f6eae1196c8b5b1e4f259",
+      "text_excerpt_original_pages": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        10,
+        13
+      ]
+    }
+  ],
+  "privacy": "개인신청서 원본, 생년월일, 전화번호, 이메일, 서명은 공개 자료에 포함하지 않음."
+}
